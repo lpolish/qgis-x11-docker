@@ -21,7 +21,7 @@ This project sets up a Docker environment for running QGIS using the `qgis/qgis`
 2. **Start the application**:
    Run the following command to start the Docker containers:
    ```
-   docker-compose gui
+   ./manage.sh gui
    ```
 
 ## Persistent Storage
