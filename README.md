@@ -18,17 +18,11 @@ This project sets up a Docker environment for running QGIS using the `qgis/qgis`
    cd qgis-x11-docker
    ```
 
-2. **Set up environment variables**:
-   Edit the `.env` file to configure any necessary environment variables.
-
-3. **Start the application**:
+2. **Start the application**:
    Run the following command to start the Docker containers:
    ```
-   docker-compose up
+   docker-compose gui
    ```
-
-4. **Access QGIS**:
-   Once the containers are running, you can access the QGIS application through your web browser or the specified interface.
 
 ## Persistent Storage
 
