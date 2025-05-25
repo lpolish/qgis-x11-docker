@@ -15,7 +15,7 @@ This project sets up a Docker environment for running QGIS using the `qgis/qgis`
 1. **Clone the repository**:
    ```
    git clone https://github.com/lpolish/qgis-x11-docker.git
-   cd qgis-docker-project
+   cd qgis-x11-docker
    ```
 
 2. **Set up environment variables**:
